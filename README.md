@@ -1,4 +1,4 @@
-🎓 Student Attendance System (Django + REST API)
+# 🎓 Student Attendance System (Django + REST API)
 
 A web-based Student Attendance System developed using Django and Django REST Framework, designed to manage students and their attendance records efficiently.
 The project also includes API testing using Postman for backend validation.
