@@ -14,7 +14,7 @@ def home(request):
     """)
 
 urlpatterns = [
-    path('', home),                 # 👈 ROOT URL FIXED
+    path('', home),                 
     path('admin/', admin.site.urls),
     path('students/', include('students.urls')),
     path('attendance/', include('attendance.urls')),
